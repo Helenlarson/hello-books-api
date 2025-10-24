@@ -8,3 +8,4 @@ def create_app():
     app.register_blueprint(books_bp)
 
     return app
+
